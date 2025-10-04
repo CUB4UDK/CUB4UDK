@@ -18,7 +18,7 @@ I am always looking to learn something new and I love to meet new people and mak
 ---
 
 ## 🚀 Skills
-- **Programming Languages:** Swift, SwiftUI, basic Python  
+- **Programming Languages:** Swift, SwiftUI, HTML, CSS, Javascript & basic Python  
 - **Tools:** Xcode, Git/GitHub, JSON, MapKit  
 - **Development:** Mobile apps, UI/UX design, small data handling  
 - **Soft Skills:** Problem-solving, project planning, collaboration, loyalty & advocacy.  
@@ -30,11 +30,17 @@ I am always looking to learn something new and I love to meet new people and mak
 > A SwiftUI mobile app designed to help people reentering the community after incarceration by locating housing, food, recovery, and legal resources.  
 - Features: Interactive map, search & filter, resource details  
 - Built with SwiftUI and MapKit  
-- [Check it out on GitHub](https://github.com/CUB4UDK/ReentryResourceFinder)  
+- [Check it out on GitHub](https://github.com/CUB4UDK/ReentryResourceFinder)
 
-*(Future projects coming soon!)*  
+### Reentry Path
+> A HTML/CSS/Javascript website made to help people reintergrating back into the community from prison, or really from anything or anywhere that they would need major resources. The site is designed to show people how to attain resources needed for survival, like housing & shelter, food, mental health serices, recovery resources and anything else that they may need.
+- Features: Interactive map, search & filter, resource details  
+- Built with Xcode, JSON, Replit and Canva 
+- [Check it out on GitHub](https://github.com/CUB4UDK/ReentryPath)
+  
+*(Future projects coming soon!)*                                                                                                                                                      x xx                                                                                                                                                                                                                                        x     x                                                                                                                                                                                                                                                                                                                                                                             xc                                                                                                                                                                                                                                                                                  f                          f
 
----
+---                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                x                                                                                                                                             x                                                                                                                                                                                                                               
 
 ## ✨ Fun Facts
 - I’m building a **tiny home project**—yes, a full DIY tiny house!  
