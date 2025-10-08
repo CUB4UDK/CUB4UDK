@@ -9,19 +9,19 @@ I am always looking to learn something new and I love to meet new people and mak
 ---
 
 ## 💡 About Me
-- 🌱 Learning **Swift, SwiftUI, and GitHub best practices**  
-- ⚖️ Studying to become a **paralegal/legal assistant**  
+- 🌱 Learning **Swift, SwiftUI, Xcode, JavaScript, C#, CSS, HTML and GitHub best practices**  
+- ⚖️ Studying to become a **paralegal/legal assistant** at University of Maine & Blackstone Career Institute 
 - 🏠 Working on **practical projects** like the **Reentry Resource Finder App** & **Reentry Path Website** 
-- 🐶 Dog lover & proud owner of my rescue dog, **Pibble** 
+- 🐶 Dog lover & proud owner of my rescue dog, a Pit Bull I call **Pibble** 
 - 🎯 Focused on **tech for social good, making change, social justice, and community support**  
 
 ---
 
 ## 🚀 Skills
 - **Programming Languages:** Swift, SwiftUI, HTML, CSS, Javascript & basic Python  
-- **Tools:** Xcode, Git/GitHub, JSON, MapKit  
-- **Development:** Mobile apps, UI/UX design, small data handling  
-- **Soft Skills:** Problem-solving, project planning, collaboration, loyalty & advocacy.  
+- **Tools:** Xcode, Git/GitHub, JSON, MapKit, SwiftUI, Replit, Canva & Lovable  
+- **Development:** Mobile apps, Websites, Graphic Design, UI/UX design, small data handling & Content Writing 
+- **Soft Skills:** Problem-solving, project planning, communication, leadership, initiative, collaboration, loyalty & advocacy.  
 
 ---
 
@@ -41,7 +41,7 @@ I am always looking to learn something new and I love to meet new people and mak
 *(Future projects coming soon!)*                                                                                                                                                                                                                                 
 
 ## ✨ Fun Facts
-- I’m building a **tiny home project**—yes, a full DIY tiny house!  
+- I’m building a **tiny home project**—yes, a full DIY tiny house! Best part is, it's **on a lake**!!!
 - I love fitness, coding, and creating tools to **help communities thrive**  
 - My coding journey started recently, but I’m **excited to grow fast**  
 
