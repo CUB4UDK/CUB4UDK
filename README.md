@@ -1,4 +1,4 @@
-# Hi there, I'm Jacquelin "Jacki" Smollett 👋😁
+# Hi there, I'm Jacquelin "Jaxi" Smollett 👋😁
 
 I'm a **college student, aspiring paralegal, and SwiftUI developer** passionate about building tools that make a real-world impact. I love creating apps that help people, explore new technologies, and combine creativity with problem-solving. 
 
