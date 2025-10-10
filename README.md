@@ -1,10 +1,10 @@
 # Hi there, I'm Jacquelin "Jaxi" Smollett 👋😁
 
-I'm a **college student, aspiring paralegal, and SwiftUI/Xcode developer** passionate about building tools that make a real-world impact. I love creating apps that help people, explore new technologies, and combine creativity with problem-solving. 
+I'm a **college student, aspiring paralegal, and SwiftUI/Xcode developer** passionate about building tools that make a real world impact. I love creating apps that help people, explore new technologies, and combine creativity with problem-solving. 
 
-When I’m not coding, I’m exploring ways to build meaningful tools, like websites to help communities or personal projects to improve productivity and organization. I’m always excited to collaborate, share knowledge, and contribute to open-source projects. 
+When I’m not coding, I’m exploring ways to build meaningful tools, like websites to help communities or personal projects to improve productivity and organization. I’m always excited to collaborate, share knowledge, and contribute to open source projects. 
 
-I am always looking to learn something new and I love to meet new people and make new friends and contacts along the way. I am from Massachusetts, however I currently reside in mid-coast Maine. My other hobbies are boating, detailing fast cars, entrepreneurship, building my tiny home on the lake, parties - I like to party, walking the beach with my Pit Bull, Pibble... 💋 
+I am always looking to learn something new and I love to meet new people and make new friends and contacts along the way. I am from Massachusetts, however I currently reside in mid-coast Maine. My other hobbies are boating, detailing fast cars, entrepreneurship, building my tiny home on the lake, parties... I like to party & walking the beach with my Pit Bull, Pibble... 💋 
 
 ---
 
