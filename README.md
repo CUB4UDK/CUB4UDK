@@ -57,3 +57,4 @@ I am always looking to learn something new and I love to meet new people and mak
 ---
 
 **“Learning to code is like learning a new language... you unlock a new world.”**  
+https://github.githubassets.com/images/icons/emoji/octocat.png
